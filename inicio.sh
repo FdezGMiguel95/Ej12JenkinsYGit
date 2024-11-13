@@ -2,7 +2,7 @@
     ./cabecera.sh
 cat << EOF
     
-    <h1>Mí página web</h1>
+    <h1 class="w3-center">Mí página web</h1>
 <div>
 EOF
     ./navegacion.sh

@@ -3,8 +3,8 @@
 ./navegacion.sh
 cat << EOF
 <main>
-    <h1>Ejemplo de página dos</h1>
-    <p>Esta es la página 2.</p>
+    <h1 class="w3-center">Ejemplo de página dos</h1>
+    <p class="w3-center">Esta es la página 2.</p>
 </main>
 EOF
 cat << EOF
